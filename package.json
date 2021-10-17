@@ -1,0 +1,21 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "automating",
+    "test",
+    "e2e"
+  ],
+  "author": "ReMCTF",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
